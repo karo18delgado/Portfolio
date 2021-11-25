@@ -1,7 +1,8 @@
-import { Container, Row, Col, Image } from "react-bootstrap";
+import { Container, Row, Col, Image, Button } from "react-bootstrap";
 import proyecto1 from "../assets/img/newsApi.png";
 import proyecto2 from "../assets/img/AppleRollStore.png";
 import proyecto3 from "../assets/img/Construrama.png";
+import "../App.css";
 
 export default function Proyectos() {
   return (
@@ -21,6 +22,8 @@ export default function Proyectos() {
               formulario.
             </p>
             <p>Herramientas utilizadas: React, Bootstrap.</p>
+            <Button target="_blank" href="https://github.com/karo18delgado/api-news" className="botones" variant="outline-danger"  >Ver repo</Button>{' '}
+            <Button target="_blank" href="https://karo18delgado.github.io/api-news/"className="botones" variant="outline-danger">Ver demo</Button>{' '}
           </Col>
         </Row>
 
@@ -46,6 +49,8 @@ export default function Proyectos() {
               React-router-dom, SweetAlert, React-Credits-cards, Mongoose,
               Jsonwebtoken. Frameworks: Express.{" "}
             </p>
+            <Button target="_blank" href="https://github.com/karo18delgado/Proyecto-Final-RollingCode" className="botones" variant="outline-danger"  >Ver repo</Button>{' '}
+            <Button target="_blank" href="https://proyecto-final-rolling-code-djor3hpa9-karo18delgado.vercel.app/"className="botones" variant="outline-danger">Ver demo</Button>{' '}
           </Col>
         </Row>
 
@@ -65,6 +70,8 @@ export default function Proyectos() {
             <p>
               Herramientas utilizadas: JavaScript, DOM HTML, CSS y Bootstrap
             </p>
+            <Button target="_blank" href="https://github.com/karo18delgado/Desafio-Grupal-JS-1" className="botones" variant="outline-danger"  >Ver repo</Button>{' '}
+            <Button target="_blank"  href="https://javiertruquin.github.io/Construrama-ecommerce/"className="botones" variant="outline-danger">Ver demo</Button>{' '}
           </Col>
         </Row>
       </Container>
