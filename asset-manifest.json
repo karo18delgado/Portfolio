@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.ec45ddcf.chunk.css",
+    "main.js": "/Portfolio/static/js/main.f040ecf3.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.f040ecf3.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.e0c724ea.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.e0c724ea.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Portfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c8de558d.chunk.js": "/Portfolio/static/js/2.c8de558d.chunk.js",
+    "static/js/2.c8de558d.chunk.js.map": "/Portfolio/static/js/2.c8de558d.chunk.js.map",
+    "static/js/3.eafcd873.chunk.js": "/Portfolio/static/js/3.eafcd873.chunk.js",
+    "static/js/3.eafcd873.chunk.js.map": "/Portfolio/static/js/3.eafcd873.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Portfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.ec45ddcf.chunk.css.map": "/Portfolio/static/css/main.ec45ddcf.chunk.css.map",
+    "static/js/2.c8de558d.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.c8de558d.chunk.js.LICENSE.txt",
+    "static/media/AppleRollStore.81bcf7aa.png": "/Portfolio/static/media/AppleRollStore.81bcf7aa.png",
+    "static/media/Construrama.72e5b226.png": "/Portfolio/static/media/Construrama.72e5b226.png",
+    "static/media/Cv-DelgadoAnaCarolina.ad01ef4d.pdf": "/Portfolio/static/media/Cv-DelgadoAnaCarolina.ad01ef4d.pdf",
+    "static/media/JS.bc014d05.svg": "/Portfolio/static/media/JS.bc014d05.svg",
+    "static/media/bootstrap.00c18d6e.png": "/Portfolio/static/media/bootstrap.00c18d6e.png",
+    "static/media/css.9d56f943.png": "/Portfolio/static/media/css.9d56f943.png",
+    "static/media/figma.753c0742.svg": "/Portfolio/static/media/figma.753c0742.svg",
+    "static/media/github.d1bb13ce.svg": "/Portfolio/static/media/github.d1bb13ce.svg",
+    "static/media/heroku.b7e7f910.svg": "/Portfolio/static/media/heroku.b7e7f910.svg",
+    "static/media/imagecv.d51b0bb1.png": "/Portfolio/static/media/imagecv.d51b0bb1.png",
+    "static/media/logocaro.69c01efd.png": "/Portfolio/static/media/logocaro.69c01efd.png",
+    "static/media/mongodb.1aca075d.svg": "/Portfolio/static/media/mongodb.1aca075d.svg",
+    "static/media/newsApi.7fda3b88.png": "/Portfolio/static/media/newsApi.7fda3b88.png",
+    "static/media/node.57f1722a.png": "/Portfolio/static/media/node.57f1722a.png",
+    "static/media/react.c2861c4d.png": "/Portfolio/static/media/react.c2861c4d.png",
+    "static/media/trello.4eaa2d02.svg": "/Portfolio/static/media/trello.4eaa2d02.svg",
+    "static/media/vercel.92c172f3.svg": "/Portfolio/static/media/vercel.92c172f3.svg",
+    "static/media/vscode.f30433c9.svg": "/Portfolio/static/media/vscode.f30433c9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0c724ea.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c8de558d.chunk.js",
+    "static/css/main.ec45ddcf.chunk.css",
+    "static/js/main.f040ecf3.chunk.js"
+  ]
+}
