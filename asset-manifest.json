@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.ec45ddcf.chunk.css",
-    "main.js": "/Portfolio/static/js/main.f040ecf3.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.f040ecf3.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.66fe55ec.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.66fe55ec.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.e0c724ea.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.e0c724ea.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/Portfolio/static/css/2.4c97ca4f.chunk.css",
@@ -16,7 +16,7 @@
     "static/js/2.c8de558d.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.c8de558d.chunk.js.LICENSE.txt",
     "static/media/AppleRollStore.81bcf7aa.png": "/Portfolio/static/media/AppleRollStore.81bcf7aa.png",
     "static/media/Construrama.72e5b226.png": "/Portfolio/static/media/Construrama.72e5b226.png",
-    "static/media/Cv-DelgadoAnaCarolina.ad01ef4d.pdf": "/Portfolio/static/media/Cv-DelgadoAnaCarolina.ad01ef4d.pdf",
+    "static/media/Cv-DelgadoAnaCarolina.524f9a20.pdf": "/Portfolio/static/media/Cv-DelgadoAnaCarolina.524f9a20.pdf",
     "static/media/JS.bc014d05.svg": "/Portfolio/static/media/JS.bc014d05.svg",
     "static/media/bootstrap.00c18d6e.png": "/Portfolio/static/media/bootstrap.00c18d6e.png",
     "static/media/css.9d56f943.png": "/Portfolio/static/media/css.9d56f943.png",
@@ -38,6 +38,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.c8de558d.chunk.js",
     "static/css/main.ec45ddcf.chunk.css",
-    "static/js/main.f040ecf3.chunk.js"
+    "static/js/main.66fe55ec.chunk.js"
   ]
 }
