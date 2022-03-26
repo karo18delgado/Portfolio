@@ -13,9 +13,9 @@ export default function Sobremi() {
         <Image src={foto} roundedCircle />
         <Col style={{margin:"0px 20px 0px 20px"}}> 
           <h1 className="texto">Hola, soy Ana Carolina Delgado.</h1>
-          <h2 className="texto">Full Stack Developer.</h2>
+          <h2 className="texto">QA | Full Stack Developer.</h2>
           <p className="texto">
-            Me apasiona ayudar a mejorar la vida de las personas a través del
+            Me apasiona mejorar la calidad de los sistemas y ayudar a las personas a través del
             desarrollo de paginas web, creo en el trabajo en equipo como clave
             para lograr un trabajo de calidad y el auto-aprendizaje como proceso
             fundamental para lograr el éxito. Me puedes contactar a través de:
